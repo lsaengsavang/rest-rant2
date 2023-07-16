@@ -46,6 +46,7 @@ router.get('/:id/edit', (req, res) => {
 })
 
 
+
 // GET /places
 app.get('/', (req, res) => {
     let places = [{
